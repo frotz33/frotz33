@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frotz33&label=Profile%20views&color=0e75b6&style=flat" alt="frotz33" /> </p>
 
-- 🔭 I’m currently working on **Practising my skill**
-
 - 🌱 I’m currently learning **ReactJS and NextJS with help of LocalHost Academy**
 
 - 📫 How to reach me **krystian.stelmach3@gmail.com**
