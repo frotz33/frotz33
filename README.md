@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Practising my skill**
 
-- 🌱 I’m currently learning **HTML, CSS(SCSS), TypeScript, ReactJS with help of LocalHost Academy**
+- 🌱 I’m currently learning **ReactJS and NextJS with help of LocalHost Academy**
 
 - 📫 How to reach me **krystian.stelmach3@gmail.com**
 
